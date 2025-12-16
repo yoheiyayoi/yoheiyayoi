@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [yooo-portfolio.vercel.app](http://yooo-portfolio.vercel.app/)
 * 🧠  I'm currently learning Luau, Typescript, Python, Rust, Kotlin
-* 💬  Ask me about "ความฝันของผมคือ อยากนอนแล้วอยู่ดี ๆ มีเงินเข้าบัญชีซักสองล้าน" (My ultimate dream is wake up confused by a notification that two million baht magically appeared in my account while I was sleeping)
+* 💬  My dream: "ความฝันของผมคือ อยากนอนแล้วอยู่ดี ๆ มีเงินเข้าบัญชีซักสองล้าน" (My ultimate dream is wake up confused by a notification that two million baht magically appeared in my account while I was sleeping)
 
 ### 🦭 Skills:
 
