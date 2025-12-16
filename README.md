@@ -1,3 +1,4 @@
+![yohei_yayoi](/header.png)
 # 💫 About Me:
 🎮 Roblox Developer (Luau scripting)<br>🤖 Discord bot developer (i'm beginner)<br>🌐 NextJS web developer (also beginner)
 
