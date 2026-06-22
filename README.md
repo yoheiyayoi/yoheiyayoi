@@ -8,8 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [yoheiyayoi.vercel.app](https://yoheiyayoi.vercel.app/)
-* 🧠  I'm currently learning Luau, Typescript, Python, Go
-* 💬  My dream: "ความฝันของผมคือ อยากนอนแล้วอยู่ดี ๆ มีเงินเข้าบัญชีซักสองล้าน" (My ultimate dream is wake up confused by a notification that two million baht magically appeared in my account while I was sleeping)
+* 🧠  I'm currently learning Luau, TypeScript, Python, Go, Java
 
 ### 🦭 Skills:
 
